@@ -8,6 +8,6 @@ O controle do projeto será feito no Github
 ## Ícones
 
 :package: nova função
-:beatle: correção de bug
-:checkred_flag: realease
+:beetle: correção de bug
+:checkered_flag: realease
 :up: atualização
