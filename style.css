@@ -483,3 +483,28 @@ footer{
   box-shadow:  0 0.1rem 0.6rem #00000009;
 }
 
+.contatos{
+  text-align: center;
+  margin-bottom: 3rem;
+  margin-top: 1.5rem;
+  line-height: 3rem;
+}
+
+.contatos h3{
+  color: #555;
+  font-family: var(--font_secundary);
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.contatos a{
+  color: #555;
+  font-family: var(--font_secundary);
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.contatos a:hover{
+  color:#7F00FF;
+}
+
