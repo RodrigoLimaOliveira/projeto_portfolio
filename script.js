@@ -8,5 +8,8 @@ function abreLink(){
 	window.open('https://github.com/RodrigoLimaOliveira/site-bolos');
 }
 function abreLink2(){
-	window.open('https://github.com/RodrigoLimaOliveira/ProjetoLogin');
+	window.open('https://github.com/RodrigoLimaOliveira/Projeto-Login');
+}
+function abreLink3(){
+	window.open('https://github.com/RodrigoLimaOliveira/FinancesPlay');
 }
